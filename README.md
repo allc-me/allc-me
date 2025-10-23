@@ -16,14 +16,14 @@
 - ☕ Fueled by coffee, curiosity & code  
 
 <p align="center">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"> Flutter &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"> Laravel &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"> PHP &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> Vue &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> MySQL &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"> Firebase &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> Git &nbsp;
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> Docker
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"> Flutter &nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"> Laravel &nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"> PHP &nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> Vue &nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> MySQL &nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"> Firebase &nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> Git &nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> Docker
 </p>
 
 ---
@@ -46,7 +46,7 @@
 *(and many more brewing in the lab ☕)*
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats & Coding Time
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrellopes&show_icons=true&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -57,17 +57,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Andrellopes&theme=onedark&no-frame=true&margin-w=5&margin-h=5"/>
 </div>
 
-<!-- <div align="center">
-  <img height="120em" src="https://github.com/Andrellopes/andrellopes/blob/output/github-contribution-grid-snake.svg"/>
-</div> -->
-
 <div align="center">
-  <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
-      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832.svg" alt="Total time coded since Mar 12 2020"/>
-  </a>
-</div>
+  <img height="120em" src="https://github.com/Andrellopes/andrellopes/blob/output/github-contribution-grid-snake.svg"/>
+</div> 
 
 ---
+-->
 
 ### 📬 Let's Connect
 <p align="center">
@@ -81,6 +76,11 @@
   <br>
   📫 Reach me at: <a href="mailto:allc.dev@hotmail.com">allc.dev@hotmail.com</a>
 </p>
+  <div align="center">
+  <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
+      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832.svg" alt="Total time coded since Mar 12 2020"/>
+  </a>
+</div>
 
 ---
 
