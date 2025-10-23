@@ -53,9 +53,7 @@
 ---
 ### 📬 Let's Connect
 <p align="center">
-  <a href="https://facebook.com/andrellopes"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/andrellopes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=%2B5512988543055&text=Ola!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"></a>
+  <a href="https://facebook.com/andrellopes"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a><a href="https://api.whatsapp.com/send?phone=%2B5512988543055&text=Ola!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"></a><a href="https://www.linkedin.com/in/andrellopes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <p align="center">
