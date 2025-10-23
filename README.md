@@ -57,9 +57,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Andrellopes&theme=onedark&no-frame=true&margin-w=5&margin-h=5"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img height="120em" src="https://github.com/Andrellopes/andrellopes/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
