@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="200">
   
-  # 👋 Andre Lopes
+# 👋 Andre Lopes
   
   **Coffee-fueled developer brewing clean code & crazy ideas** ☕💻
   
@@ -20,8 +20,11 @@
 ```dart
 const andre = {
   location: "São Paulo, Brazil 🇧🇷",
-  code: ["Dart", "PHP", "JavaScript", "TypeScript"],
-  focus: "Building smart apps with IoT & automation",
+  code: ["Dart", "PHP", "JavaScript", "TypeScript", "SQL"],
+  mobile: ["Flutter", "Android Native", "Cross-platform"],
+  backend: ["Laravel", "Node.js", "REST APIs"],
+  databases: ["MySQL", "SQLite", "Firebase Realtime DB"],
+  focus: "Building smart POS systems with IoT & payments integration",
   achievement: "11 apps live on Play Store 🎯",
   funFact: "I debug better after my 3rd coffee ☕"
 };
@@ -31,14 +34,12 @@ const andre = {
 
 ## 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Mobile & Desktop** • Flutter • Dart • Android • Windows • Linux  
+**Backend** • Laravel • PHP • Node.js • REST APIs  
+**Databases** • MySQL • SQLite • Firebase • PostgreSQL  
+**Payments** • PIX • TEF • Stone • PagBank • GetNet  
+**Frontend** • Vue.js • TypeScript • JavaScript  
+**DevOps** • Git • Docker • CI/CD
 
 ---
 
