@@ -104,6 +104,6 @@ const andre = {
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 **⭐ From [andrellopes](https://github.com/andrellopes)**  
-*Brewing code with ☕ and ❤️ since 2020*
+*Brewing code with ☕ and ❤️ since 2000*
 
 </div>
