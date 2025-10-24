@@ -42,15 +42,6 @@ const andre = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andrellopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
-</div>
-
----
-
 ## 📱 Featured Apps (11 Live on Play Store)
 
 ### ⏱️ Productivity
@@ -78,6 +69,15 @@ const andre = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andrellopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -89,21 +89,6 @@ const andre = {
 
 💬 Ask me about **Flutter**, **Laravel** or **IoT**!
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrellopes&theme=dracula" alt="streak"/>
-</div>
-
----
-
-<div align="center">
-  
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-**⭐ From [andrellopes](https://github.com/andrellopes)**  
-*Brewing code with ☕ and ❤️ since 2000*
 
 </div>
