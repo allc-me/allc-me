@@ -20,11 +20,10 @@
 ```dart
 const andre = {
   location: "São Paulo, Brazil 🇧🇷",
-  code: ["Dart", "PHP", "JavaScript", "TypeScript", "SQL"],
+  code: ["Dart", "PHP", "JavaScript", "SQL"],
   mobile: ["Flutter", "Android Native", "Cross-platform"],
   backend: ["Laravel", "Node.js", "REST APIs"],
   databases: ["MySQL", "SQLite", "Firebase Realtime DB"],
-  focus: "Building smart POS systems with IoT & payments integration",
   achievement: "11 apps live on Play Store 🎯",
   funFact: "I debug better after my 3rd coffee ☕"
 };
