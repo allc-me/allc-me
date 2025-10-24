@@ -44,28 +44,19 @@ const andre = {
 
 ## 📱 Featured Apps (11 Live on Play Store)
 
-### ⏱️ Productivity
-
-🕐 **[Focodoro](https://play.google.com/store/apps/details?id=dev.allc.a_focus_time)** - Pomodoro timer with smart stats  
-📆 **[Habitus](https://play.google.com/store/apps/details?id=dev.allc.a_habit_time)** - Daily habit tracker with insights  
-⏱️ **[ExacTime](https://play.google.com/store/apps/details?id=dev.allc.a_clock)** - Classic flip-style desk clock  
-🔢 **[MultiCounter](https://play.google.com/store/apps/details?id=dev.allc.a_counter)** - Customizable event counter
-
-### 🧘 Wellness
-
-🌿 **[Quietude](https://play.google.com/store/apps/details?id=dev.allc.a_noise_time)** - Relaxing sounds & white noise mixer  
-💫 **[Serena](https://play.google.com/store/apps/details?id=dev.allc.a_mood_time)** - Mood & anxiety journal
-
-### 🎮 Entertainment
-
-🧠 **[Nexus](https://play.google.com/store/apps/details?id=dev.allc.a_mind_time)** - Brain training games  
-♟️ **[ChessTime](https://play.google.com/store/apps/details?id=dev.allc.a_chess_time)** - Chess clock with increments
-
-### 📖 Faith & Others
-
-📖 **[Bíblia](https://play.google.com/store/apps/details?id=dev.allc.a_bible)** - Read, listen & study the Bible  
-❓ **[BookQuest](https://play.google.com/store/apps/details?id=dev.allc.a_book)** - Biblical quiz game  
-🐾 **[PetLog](https://play.google.com/store/apps/details?id=dev.allc.a_pet)** - Pet care tracker
+| App | Description |
+|-----|-------------|
+| 📖 [**Bible**](https://play.google.com/store/apps/details?id=dev.allc.a_bible) | Read, listen & study the Bible |
+| ❓ [**BookQuest**](https://play.google.com/store/apps/details?id=dev.allc.a_book) | Biblical quiz game |
+| ♟️ [**ChessTime**](https://play.google.com/store/apps/details?id=dev.allc.a_chess_time) | Chess clock with increments |
+| ⏱️ [**ExacTime**](https://play.google.com/store/apps/details?id=dev.allc.a_clock) | Classic flip-style desk clock |
+| 🕐 [**Focodoro**](https://play.google.com/store/apps/details?id=dev.allc.a_focus_time) | Pomodoro timer with smart statistics |
+| 📆 [**Habitus**](https://play.google.com/store/apps/details?id=dev.allc.a_habit_time) | Daily habit tracker with insights |
+| 🔢 [**MultiCounter**](https://play.google.com/store/apps/details?id=dev.allc.a_counter) | Customizable event counter |
+| 🧠 [**Nexus**](https://play.google.com/store/apps/details?id=dev.allc.a_mind_time) | Brain training games |
+| 🐾 [**PetLog**](https://play.google.com/store/apps/details?id=dev.allc.a_pet) | Pet care tracker |
+| 🌿 [**Quietude**](https://play.google.com/store/apps/details?id=dev.allc.a_noise_time) | Relaxing sounds & white noise mixer |
+| 💫 [**Serena**](https://play.google.com/store/apps/details?id=dev.allc.a_mood_time) | Mood & anxiety journal |
 
 ---
 
