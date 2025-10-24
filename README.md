@@ -33,12 +33,12 @@ const andre = {
 
 ## 🛠️ Tech Stack
 
-**Mobile & Desktop** • Flutter • Dart • Android • Windows • Linux  
-**Backend** • Laravel • PHP • Node.js • REST APIs  
-**Databases** • MySQL • SQLite • Firebase • PostgreSQL  
-**Payments** • PIX • TEF • Stone • PagBank • GetNet  
-**Frontend** • Vue.js • TypeScript • JavaScript  
-**DevOps** • Git • Docker • CI/CD
+**Mobile & Desktop** $\rightarrow$ Flutter • Dart • Android • Windows • Linux  
+**Backend** $\rightarrow$ Laravel • PHP • Node.js • REST APIs  
+**Databases** $\rightarrow$ MySQL • SQLite • Firebase • PostgreSQL  
+**Payments** $\rightarrow$ PIX • TEF • Stone • PagBank • GetNet  
+**Frontend** $\rightarrow$ Vue.js • TypeScript • JavaScript  
+**DevOps** $\rightarrow$ Git • Docker • CI/CD
 
 ---
 
