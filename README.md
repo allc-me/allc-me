@@ -19,7 +19,7 @@ Coffee-driven builder of scalable apps and clean architectures.
 ## About
 
 ```dart
-const andre = {
+const allc = {
   location: "São Paulo, Brazil",
   stack: ["Flutter", "Laravel", "Vue", "Node"],
   languages: ["Dart", "PHP", "JavaScript", "SQL"],
@@ -56,9 +56,6 @@ Docker • CI/CD • Git
 ## Contact
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/andrellopes">LinkedIn</a> • 
-<a href="https://facebook.com/andrellopes">Facebook</a> • 
 <a href="https://api.whatsapp.com/send?phone=%2B5512988543055">WhatsApp</a> • 
 <a href="mailto:allc.me@outlook.com">Email</a>
 
