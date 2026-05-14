@@ -9,7 +9,7 @@
   <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832.svg" alt="Total time coded" />
   </a>
-  <img src="https://img.shields.io/github/followers/andrellopes?label=Followers&style=social" alt="GitHub Badge" />
+  <img src="https://img.shields.io/github/followers/allc-me?label=Followers&style=social" alt="GitHub Badge" />
   
 </div>
 
